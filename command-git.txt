@@ -1,0 +1,7 @@
+pour cloner on utilise:
+git clone <URL>
+
+pour push on utilise les trois commandes dans le bon répertoires :
+git add .
+git commit -m "message"
+git push
