@@ -6,3 +6,8 @@ git add .
 git commit -m "message"
 git push
 git pull
+
+on créer une branche avec:
+git branch "nom de la branche"
+pour switch de branche on utilise:
+git switch "nom_branch_existante"
